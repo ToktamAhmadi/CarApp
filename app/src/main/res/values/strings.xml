@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CarApp</string>
+    <string name="favorites">favorites</string>
+    <string name="profile_usernameHint">Enter username</string>
+    <string name="profile_passwordHint">Enter password</string>
+    <string name="profile_save">Login</string>
+    <string name="detail_order">Order Now | %1$s</string>
+    <string name="detail_description">Description</string>
+    <string name="main_brands">Brands</string>
+    <string name="main_newCars">New Vehicles</string>
+    <string name="main_home">Home</string>
+    <string name="Profile">Profile</string>
+    <string name="Favorite">Favorite</string>
+    <string name="details_addToFavoritesSuccessMessage">This car is added to Favorites</string>
+
+</resources>
